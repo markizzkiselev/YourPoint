@@ -640,6 +640,7 @@ class Example(QMainWindow):
     def set_new_logo(self):
         try:
             self.fname = QFileDialog.getOpenFileName(self, 'Выберите файл : ', '')[0]
+            self.sender().setImage(self.fname)
             self.found_connecter[self.fname.split('/')[-1]] = self.fname
             self.sender().logo_found(self.fname)
             self.sender().setImage('logo.png')
