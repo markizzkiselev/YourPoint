@@ -30,7 +30,7 @@ class Example(QMainWindow):
 
         self.logo = QImageButton(self)
         self.logo.setGeometry(100, 50, 200, 200)
-        self.logo.setImage('logo.png')
+        self.logo.setImage('images/logo.png')
         self.logo.newOption('border: none;')
 
         button_font = QFont('Arial', 20)
@@ -71,7 +71,7 @@ class Example(QMainWindow):
 
         self.basket_button = QImageButton(self)
         self.basket_button.setGeometry(self.width() - 250, self.height() - 250, 200, 200)
-        self.basket_button.setImage('basketshop.png')
+        self.basket_button.setImage('images/basketshop.png')
         self.basket_button.newOption('border: none;')
         self.basket_button.clicked.connect(self.state_basket)
 
@@ -104,7 +104,7 @@ class Example(QMainWindow):
 
         self.use_code_button = QImageButton(self)
         self.use_code_button.setGeometry(1775, 50, 100, 100)
-        self.use_code_button.setImage('codes.png')
+        self.use_code_button.setImage('images/codes.png')
         self.use_code_button.newOption('border: none;')
         self.use_code_button.setGraphicsEffect(
             QtWidgets.QGraphicsDropShadowEffect(self, color=QtGui.QColor("black"), offset=QtCore.QPointF(10.0, 10.0)))
@@ -367,13 +367,13 @@ class Example(QMainWindow):
 
         self.right_button = QImageButton(self)
         self.right_button.setGeometry(500, 800, 200, 200)
-        self.right_button.setImage('arrow_left.png')
+        self.right_button.setImage('images/arrow_left.png')
         self.right_button.newOption('border: none;')
         self.right_button.clicked.connect(self.listed)
 
         self.left_button = QImageButton(self)
         self.left_button.setGeometry(750, 800, 200, 200)
-        self.left_button.setImage('arrow.png')
+        self.left_button.setImage('images/arrow.png')
         self.left_button.newOption('border: none;')
         self.left_button.clicked.connect(self.listed)
 

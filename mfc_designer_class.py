@@ -31,7 +31,7 @@ class Example(QMainWindow):
 
         self.logo = QImageButton(self)
         self.logo.setGeometry(50, 50, 200, 200)
-        self.logo.setImage('logo.png')
+        self.logo.setImage('images/logo.png')
         self.logo.newOption('border: none;')
 
         self.logo_font = QFont('Arial', 50)
@@ -44,7 +44,7 @@ class Example(QMainWindow):
 
         self.set_logo_button = QImageButton(self)
         self.set_logo_button.setGeometry(1500, 50, 300, 300)
-        self.set_logo_button.setImage('logo.png')
+        self.set_logo_button.setImage('images/logo.png')
         self.set_logo_button.newOption('border : none;')
         self.set_logo_button.clicked.connect(self.set_new_logo)
 
@@ -202,7 +202,7 @@ class Example(QMainWindow):
 
             arrow = QImageButton(self)
             arrow.setGeometry(525, y, 100, 100)
-            arrow.setImage('arrow.png')
+            arrow.setImage('images/arrow.png')
             arrow.newOption('border: none;')
             arrow.setGraphicsEffect(
                 QtWidgets.QGraphicsDropShadowEffect(self, color=QtGui.QColor("black"),
@@ -211,7 +211,7 @@ class Example(QMainWindow):
 
             file = QImageButton(self)
             file.setGeometry(650, y, 100, 100)
-            file.setImage('file.png')
+            file.setImage('images/file.png')
             file.newOption('border: none;')
             file.setGraphicsEffect(
                 QtWidgets.QGraphicsDropShadowEffect(self, color=QtGui.QColor("black"),
@@ -221,7 +221,7 @@ class Example(QMainWindow):
 
             delete = QImageButton(self)
             delete.setGeometry(775, y, 100, 100)
-            delete.setImage('block.png')
+            delete.setImage('images/block.png')
             delete.newOption('border : none;')
             delete.clicked.connect(self.delete_file)
             delete.setGraphicsEffect(
@@ -266,7 +266,7 @@ class Example(QMainWindow):
 
         self.file_save_button = QImageButton(self)
         self.file_save_button.setGeometry(self.width() - 250, self.height() - 250, 200, 200)
-        self.file_save_button.setImage('save.png')
+        self.file_save_button.setImage('images/save.png')
         self.file_save_button.newOption('border: none;')
         self.file_save_button.clicked.connect(self.save_files)
 
@@ -359,7 +359,7 @@ class Example(QMainWindow):
             position_image_button.setGraphicsEffect(
                 QtWidgets.QGraphicsDropShadowEffect(self, color=QtGui.QColor("black"),
                                                     offset=QtCore.QPointF(10.0, 10.0)))
-            position_image_button.setImage('burger.jpg')
+            position_image_button.setImage('images/burger.jpg')
             position_image_button.clicked.connect(self.set_img)
             self.position_images.append(position_image_button)
 
@@ -444,7 +444,7 @@ class Example(QMainWindow):
 
         self.save_itm_button = QImageButton(self)
         self.save_itm_button.setGeometry(self.width() - 250, self.height() - 250, 200, 200)
-        self.save_itm_button.setImage('save.png')
+        self.save_itm_button.setImage('images/save.png')
         self.save_itm_button.newOption('border: none;')
         self.save_itm_button.clicked.connect(self.save_items)
 
@@ -528,7 +528,7 @@ class Example(QMainWindow):
 
             arrow = QImageButton(self)
             arrow.setGeometry(725, y, 100, 100)
-            arrow.setImage('arrow.png')
+            arrow.setImage('images/arrow.png')
             arrow.newOption('border: none;')
             arrow.setGraphicsEffect(
                 QtWidgets.QGraphicsDropShadowEffect(self, color=QtGui.QColor("black"),
@@ -552,7 +552,7 @@ class Example(QMainWindow):
 
             use_code_button = QImageButton(self)
             use_code_button.setGeometry(1325, y, 100, 100)
-            use_code_button.setImage('codes.png')
+            use_code_button.setImage('images/codes.png')
             use_code_button.newOption('border: none;')
             use_code_button.setGraphicsEffect(
                 QtWidgets.QGraphicsDropShadowEffect(self, color=QtGui.QColor("black"),
@@ -565,7 +565,7 @@ class Example(QMainWindow):
 
         self.save_code_button = QImageButton(self)
         self.save_code_button.setGeometry(self.width() - 250, self.height() - 250, 200, 200)
-        self.save_code_button.setImage('save.png')
+        self.save_code_button.setImage('images/save.png')
         self.save_code_button.newOption('border: none;')
         self.save_code_button.clicked.connect(self.save_codes)
 
@@ -643,8 +643,8 @@ class Example(QMainWindow):
             self.sender().setImage(self.fname)
             self.found_connecter[self.fname.split('/')[-1]] = self.fname
             self.sender().logo_found(self.fname)
-            self.sender().setImage('logo.png')
-            self.logo.setImage('logo.png')
+            self.sender().setImage('images/logo.png')
+            self.logo.setImage('images/logo.png')
         except Exception:
             pass
 
@@ -933,7 +933,7 @@ class Example(QMainWindow):
         self.position_images[self.pluser].show()
         self.position_txt[self.pluser].show()
         self.prices[self.pluser].show()
-        self.position_images[self.pluser].setImage('file.png')
+        self.position_images[self.pluser].setImage('images/file.png')
         self.position_txt[self.pluser].setText('')
         self.prices[self.pluser].setValue(0)
         if self.pluser < 2:
