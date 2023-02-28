@@ -4,122 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f1788f3-7381-4b92-8b20-fe209e927b41" name="Changes" comment="MFC Beta 1.0 &amp; MFCD Beta 1.0">
-      <change beforePath="$PROJECT_DIR$/.idea/MFC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MFC.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="5f1788f3-7381-4b92-8b20-fe209e927b41" name="Changes" comment="YourPoint 1.1 - cleaning the file system">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arrow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/arrow_down.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/arrow_left.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/arrow_up.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basket.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basketshop.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/block.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/burger#.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/burger++.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/burger.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chicken.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chickenmedium.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chickensmall.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class_qimageclasses.py" beforeDir="false" afterPath="$PROJECT_DIR$/class_qimageclasses.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/design.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/design.sqlite" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/disign.sqlite" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/double_arrow_left.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/double_arrow_right.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/file.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/images.csv" beforeDir="false" afterPath="$PROJECT_DIR$/images.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logotype.csv" beforeDir="false" afterPath="$PROJECT_DIR$/logotype.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main_mfc_designer.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_mfc_designer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mfc_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/mfc_class.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mfc_designer_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/mfc_designer_class.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/milkshakebrown.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/milkshakewhite.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/milkshakeyellow.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_image_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_10.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_image_10.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_11.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_image_11.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_12.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_image_12.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_13.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_image_13.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_14.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_image_14.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_15.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_image_15.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_16.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_image_16.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_17.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_image_17.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_18.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_image_18.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_19.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_image_19.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_image_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_20.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_image_20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_21.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_image_21.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_22.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_image_22.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_23.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_image_23.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_24.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_image_24.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_25.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_image_25.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_26.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_image_26.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_27.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_image_27.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_28.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_image_28.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_29.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_image_29.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_image_3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_30.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_image_30.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_31.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_image_31.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_32.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_image_32.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_33.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_image_33.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_34.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_image_34.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_35.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_image_35.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_36.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_image_36.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_37.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_image_37.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_38.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_image_38.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_39.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_image_4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_40.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_41.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_42.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_43.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_44.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_45.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_46.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_47.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_49.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_image_5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_50.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_51.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_52.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_53.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_54.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_55.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_56.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_57.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_58.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_59.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_image_6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_60.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_61.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_62.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_63.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_64.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_65.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_66.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_67.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_68.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_69.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_image_7.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_70.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_71.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_72.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_73.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_74.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_75.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_76.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_8.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_image_8.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_image_9.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_image_9.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/MFC/design.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/output/MFC/design.sqlite" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/MFC/images.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output/MFC/images.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/MFC/logotype.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output/MFC/logotype.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/MFC/promocodes.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output/MFC/promocodes.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/png.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promocodes.csv" beforeDir="false" afterPath="$PROJECT_DIR$/promocodes.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/red_background.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/save.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shopbasket.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,6 +26,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -294,8 +186,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.main_mfc (1)" />
-        <item itemvalue="Python.main_mfc_designer (1)" />
         <item itemvalue="Python.mfc_class" />
+        <item itemvalue="Python.main_mfc_designer (1)" />
         <item itemvalue="Python.main_mfc" />
         <item itemvalue="Python.main_mfc_designer" />
       </list>
@@ -331,7 +223,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669699169075</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="YourPoint 1.0">
+      <created>1677528737701</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677528737701</updated>
+    </task>
+    <task id="LOCAL-00005" summary="YourPoint 1.1 - cleaning the file system">
+      <created>1677528995348</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677528995348</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -348,6 +254,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="My first commit!" />
     <MESSAGE value="MFC Beta 1.0 &amp; MFCD Beta 1.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="MFC Beta 1.0 &amp; MFCD Beta 1.0" />
+    <MESSAGE value="YourPoint 1.0" />
+    <MESSAGE value="YourPoint 1.1 - cleaning the file system" />
+    <option name="LAST_COMMIT_MESSAGE" value="YourPoint 1.1 - cleaning the file system" />
   </component>
 </project>

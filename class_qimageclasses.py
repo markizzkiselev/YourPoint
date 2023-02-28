@@ -4,7 +4,7 @@ from PyQt5.QtWidgets import QPushButton, QTextEdit
 
 images = 0
 used_images = {}
-logo = 'logo.png'
+logo = 'images/logo.png'
 with open('images.csv', encoding="utf8") as csvfile:
     reader = csv.reader(csvfile, delimiter=';', quotechar="'")
     for index, row in enumerate(reader):
