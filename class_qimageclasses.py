@@ -52,7 +52,7 @@ class QImageButton(QPushButton):
 
     def setImage(self, image):
         global images, used_images
-        if image == 'logo.png':
+        if image == 'images/logo.png':
             image = logo
         self.img = image
         img = Image.open(image)
