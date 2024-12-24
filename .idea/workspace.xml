@@ -4,11 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f1788f3-7381-4b92-8b20-fe209e927b41" name="Changes" comment="YourPoint 1.6 - debug">
+    <list default="true" id="5f1788f3-7381-4b92-8b20-fe209e927b41" name="Changes" comment="YourPoint 1.7 - debug">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/design.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/design.sqlite" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/images.csv" beforeDir="false" afterPath="$PROJECT_DIR$/images.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logotype.csv" beforeDir="false" afterPath="$PROJECT_DIR$/logotype.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mfc_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/mfc_class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mfc_designer_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/mfc_designer_class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_image_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_image_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_image_11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_image_12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_image_13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_image_14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_image_15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_image_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_image_17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_image_18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_image_19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_image_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_image_20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_image_21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_image_22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_image_23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_image_24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_image_25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_image_26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_image_27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_image_28.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_image_29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_image_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_image_30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_image_31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_image_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_image_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_image_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_image_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_image_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_image_9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/promocodes.csv" beforeDir="false" afterPath="$PROJECT_DIR$/promocodes.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -263,7 +297,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677610379226</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="YourPoint 1.7 - debug">
+      <created>1725358130821</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1725358130821</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -286,6 +327,7 @@
     <MESSAGE value="YourPoint 1.4 - cleaning the file system" />
     <MESSAGE value="YourPoint 1.5 - cleaning the file system" />
     <MESSAGE value="YourPoint 1.6 - debug" />
-    <option name="LAST_COMMIT_MESSAGE" value="YourPoint 1.6 - debug" />
+    <MESSAGE value="YourPoint 1.7 - debug" />
+    <option name="LAST_COMMIT_MESSAGE" value="YourPoint 1.7 - debug" />
   </component>
 </project>

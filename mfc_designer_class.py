@@ -27,7 +27,7 @@ class Example(QMainWindow):
 
         self.red_background = QImageText(self)
         self.red_background.setGeometry(0, 0, 300, self.height())
-        self.red_background.setStyleSheet("background-color: red; border: none;")
+        self.red_background.setStyleSheet("background-color: blue; border: none;")
 
         self.logo = QImageButton(self)
         self.logo.setGeometry(50, 50, 200, 200)
@@ -130,11 +130,11 @@ class Example(QMainWindow):
         self.files_up_button.setFont(self.position_font)
         self.files_up_button.newOption("QPushButton"
                                        "{"
-                                       "background-color : red; border-radius: 10px;"
+                                       "background-color : blue; border-radius: 10px;"
                                        "}"
                                        "QPushButton::pressed"
                                        "{"
-                                       "background-color : orange; border-radius: 10px;"
+                                       "background-color : cyan; border-radius: 10px;"
                                        "}"
                                        )
         self.files_up_button.setGraphicsEffect(
@@ -147,11 +147,11 @@ class Example(QMainWindow):
         self.files_down_button.setFont(self.position_font)
         self.files_down_button.newOption("QPushButton"
                                          "{"
-                                         "background-color : red; border-radius: 10px;"
+                                         "background-color : blue; border-radius: 10px;"
                                          "}"
                                          "QPushButton::pressed"
                                          "{"
-                                         "background-color : orange; border-radius: 10px;"
+                                         "background-color : cyan; border-radius: 10px;"
                                          "}"
                                          )
         self.files_down_button.setGraphicsEffect(
@@ -253,11 +253,11 @@ class Example(QMainWindow):
         self.append_file_button.setFont(self.position_font)
         self.append_file_button.newOption("QPushButton"
                                           "{"
-                                          "background-color : red; border-radius: 30px;"
+                                          "background-color : blue; border-radius: 30px;"
                                           "}"
                                           "QPushButton::pressed"
                                           "{"
-                                          "background-color : orange; border-radius: 30px;"
+                                          "background-color : cyan; border-radius: 30px;"
                                           "}"
                                           )
         self.append_file_button.setGraphicsEffect(
@@ -392,11 +392,11 @@ class Example(QMainWindow):
         self.position_arrow_up.setText('˄')
         self.position_arrow_up.newOption("QPushButton"
                                          "{"
-                                         "background-color : red; border-radius: 10px;"
+                                         "background-color : blue; border-radius: 10px;"
                                          "}"
                                          "QPushButton::pressed"
                                          "{"
-                                         "background-color : orange; border-radius: 10px;"
+                                         "background-color : cyan; border-radius: 10px;"
                                          "}"
                                          )
         self.position_arrow_up.setGraphicsEffect(
@@ -409,11 +409,11 @@ class Example(QMainWindow):
         self.position_arrow_down.setText('˅')
         self.position_arrow_down.newOption("QPushButton"
                                            "{"
-                                           "background-color : red; border-radius: 10px;"
+                                           "background-color : blue; border-radius: 10px;"
                                            "}"
                                            "QPushButton::pressed"
                                            "{"
-                                           "background-color : orange; border-radius: 10px;"
+                                           "background-color : cyan; border-radius: 10px;"
                                            "}"
                                            )
         self.position_arrow_down.setGraphicsEffect(
@@ -429,11 +429,11 @@ class Example(QMainWindow):
         self.button_plus.setFont(self.position_font)
         self.button_plus.newOption("QPushButton"
                                    "{"
-                                   "background-color : red; border-radius: 30px;"
+                                   "background-color : blue; border-radius: 30px;"
                                    "}"
                                    "QPushButton::pressed"
                                    "{"
-                                   "background-color : orange; border-radius: 30px;"
+                                   "background-color : cyan; border-radius: 30px;"
                                    "}"
                                    )
         self.button_plus.setGraphicsEffect(
@@ -454,11 +454,11 @@ class Example(QMainWindow):
         self.code_up_button.setFont(self.position_font)
         self.code_up_button.newOption("QPushButton"
                                       "{"
-                                      "background-color : red; border-radius: 10px;"
+                                      "background-color : blue; border-radius: 10px;"
                                       "}"
                                       "QPushButton::pressed"
                                       "{"
-                                      "background-color : orange; border-radius: 10px;"
+                                      "background-color : cyan; border-radius: 10px;"
                                       "}"
                                       )
         self.code_up_button.setGraphicsEffect(
@@ -471,11 +471,11 @@ class Example(QMainWindow):
         self.code_down_button.setFont(self.position_font)
         self.code_down_button.newOption("QPushButton"
                                         "{"
-                                        "background-color : red; border-radius: 10px;"
+                                        "background-color : blue; border-radius: 10px;"
                                         "}"
                                         "QPushButton::pressed"
                                         "{"
-                                        "background-color : orange; border-radius: 10px;"
+                                        "background-color : cyan; border-radius: 10px;"
                                         "}"
                                         )
         self.code_down_button.setGraphicsEffect(
@@ -540,7 +540,7 @@ class Example(QMainWindow):
             promo.setFont(self.codes_font)
             promo.setStyleSheet("QLineEdit"
                                 "{"
-                                "background-color : red; border-radius: 10px;"
+                                "background-color : blue; border-radius: 10px;"
                                 "border-top-right-radius: 0; border-bottom-right-radius: 0;"
                                 "}"
                                 )
@@ -575,11 +575,11 @@ class Example(QMainWindow):
         self.append_code_button.setFont(self.position_font)
         self.append_code_button.newOption("QPushButton"
                                           "{"
-                                          "background-color : red; border-radius: 30px;"
+                                          "background-color : blue; border-radius: 30px;"
                                           "}"
                                           "QPushButton::pressed"
                                           "{"
-                                          "background-color : orange; border-radius: 30px;"
+                                          "background-color : cyan; border-radius: 30px;"
                                           "}"
                                           )
         self.append_code_button.setGraphicsEffect(
